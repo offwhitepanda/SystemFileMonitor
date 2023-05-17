@@ -1,5 +1,4 @@
 import json
-import datetime
 
 
 def to_json(entries):

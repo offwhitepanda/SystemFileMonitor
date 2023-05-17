@@ -31,7 +31,7 @@ def insert_file_hashes():
     for file_path, file_hash in file_hashes.items():
         try:
             cursor.execute('INSERT INTO file_hashes (file_path, hash) VALUES (?, ?)', (file_path, file_hash))
-            files_inserted_count +=  1
+            files_inserted_count += 1
         except sqlite3.IntegrityError:
             duplicate_entry_count += 1
 

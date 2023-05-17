@@ -6,6 +6,7 @@ from import_exceptions import import_exceptions
 from to_json import to_json
 from utility_commands import print_colorful
 from utility_commands import files_checked_progress
+from send_message import send_toast_if_changes_detected
 
 
 def check_file_hashes():
@@ -46,7 +47,8 @@ def check_file_hashes():
                 continue
 
             try:
-                stored_hash = cursor.execute('SELECT hash FROM file_hashes WHERE file_path = ?', (file_path,)).fetchone()
+                stored_hash = cursor.execute('SELECT hash FROM file_hashes WHERE file_path = ?',
+                                             (file_path,)).fetchone()
 
                 if stored_hash:
                     file_hash = compute_file_hash(file_path)
@@ -83,4 +85,13 @@ def check_file_hashes():
     print(f"Files With Permission Denied: {files_with_permission_denied}")
     print(f"Files With Different Hashes: {files_with_different_hashes}")
     to_json(entries)
+
+    # Send message if changes detected
+    send_toast_if_changes_detected(bool_hash_change, files_with_different_hashes)
+
     return bool_hash_change
+
+
+if __name__ == "__main__":
+
+    check_file_hashes()

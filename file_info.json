@@ -1,1 +1,320 @@
-[]
+[
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\setupact.log",
+        "stored_hash": "6f7f64f749ddbb136db0a0e1e482ce4b56fc740d774f0d0ef506e21de4bde0bd",
+        "file_hash": "2f13b8b97adf15a181d68cb3d7ce90d12b25e87f3065e988f413326270e6262c",
+        "current_datetime": "2023-05-17T19:41:01.260368"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\INDEX.BTR",
+        "stored_hash": "264dc376be4ae8a90251a88202c759cff1b3e13d5fba7abbdc5c4fb777405a29",
+        "file_hash": "34a920503468aeb0339a659546b90ba5bc9b56aa16f53df137defda95cac9665",
+        "current_datetime": "2023-05-17T19:41:13.058883"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING1.MAP",
+        "stored_hash": "ce883b77c35ed3a0b3ef96f7f99323873256a3aa26d7f4fa4d4060dbc4e875f8",
+        "file_hash": "61ac2b8644111089cca325ab7bda35c37b1af96db14fde2cb9df7ca138a80ee0",
+        "current_datetime": "2023-05-17T19:41:13.063440"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING3.MAP",
+        "stored_hash": "fa6d8fb4eed14de948b4792f03690d8b80601b2adcf83d5f81ae32ecbe09c47e",
+        "file_hash": "b8a765bf25e280a8e41e47cf75f106045fd8be9e5e7f1c2be77b1cf11d315091",
+        "current_datetime": "2023-05-17T19:41:13.071659"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\OBJECTS.DATA",
+        "stored_hash": "707bebe5f3f7f880efbc4a34fce0d8d656e9f25bc133621eddda39b529e78baf",
+        "file_hash": "5467d78eb3f896ca0127121fef934e5c04014393a1993268cbb3a2652875ba63",
+        "current_datetime": "2023-05-17T19:41:13.129364"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\@AdvancedKeySettingsNotification.png",
+        "stored_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d",
+        "file_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d8",
+        "current_datetime": "2023-05-17T21:01:10.861798"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagerr.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:01:26.599522"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagwrn.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:01:26.599522"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\setupact.log",
+        "stored_hash": "6f7f64f749ddbb136db0a0e1e482ce4b56fc740d774f0d0ef506e21de4bde0bd",
+        "file_hash": "2f13b8b97adf15a181d68cb3d7ce90d12b25e87f3065e988f413326270e6262c",
+        "current_datetime": "2023-05-17T21:01:26.607563"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\INDEX.BTR",
+        "stored_hash": "264dc376be4ae8a90251a88202c759cff1b3e13d5fba7abbdc5c4fb777405a29",
+        "file_hash": "34a920503468aeb0339a659546b90ba5bc9b56aa16f53df137defda95cac9665",
+        "current_datetime": "2023-05-17T21:01:28.288328"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING1.MAP",
+        "stored_hash": "ce883b77c35ed3a0b3ef96f7f99323873256a3aa26d7f4fa4d4060dbc4e875f8",
+        "file_hash": "61ac2b8644111089cca325ab7bda35c37b1af96db14fde2cb9df7ca138a80ee0",
+        "current_datetime": "2023-05-17T21:01:28.288328"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING3.MAP",
+        "stored_hash": "fa6d8fb4eed14de948b4792f03690d8b80601b2adcf83d5f81ae32ecbe09c47e",
+        "file_hash": "b8a765bf25e280a8e41e47cf75f106045fd8be9e5e7f1c2be77b1cf11d315091",
+        "current_datetime": "2023-05-17T21:01:28.288328"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\OBJECTS.DATA",
+        "stored_hash": "707bebe5f3f7f880efbc4a34fce0d8d656e9f25bc133621eddda39b529e78baf",
+        "file_hash": "5467d78eb3f896ca0127121fef934e5c04014393a1993268cbb3a2652875ba63",
+        "current_datetime": "2023-05-17T21:01:28.342144"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\@AdvancedKeySettingsNotification.png",
+        "stored_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d",
+        "file_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d8",
+        "current_datetime": "2023-05-17T21:11:31.656495"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagerr.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:11:46.816698"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagwrn.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:11:46.821016"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\setupact.log",
+        "stored_hash": "6f7f64f749ddbb136db0a0e1e482ce4b56fc740d774f0d0ef506e21de4bde0bd",
+        "file_hash": "2f13b8b97adf15a181d68cb3d7ce90d12b25e87f3065e988f413326270e6262c",
+        "current_datetime": "2023-05-17T21:11:46.821016"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\INDEX.BTR",
+        "stored_hash": "264dc376be4ae8a90251a88202c759cff1b3e13d5fba7abbdc5c4fb777405a29",
+        "file_hash": "34a920503468aeb0339a659546b90ba5bc9b56aa16f53df137defda95cac9665",
+        "current_datetime": "2023-05-17T21:11:48.424386"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING1.MAP",
+        "stored_hash": "ce883b77c35ed3a0b3ef96f7f99323873256a3aa26d7f4fa4d4060dbc4e875f8",
+        "file_hash": "61ac2b8644111089cca325ab7bda35c37b1af96db14fde2cb9df7ca138a80ee0",
+        "current_datetime": "2023-05-17T21:11:48.424386"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING3.MAP",
+        "stored_hash": "fa6d8fb4eed14de948b4792f03690d8b80601b2adcf83d5f81ae32ecbe09c47e",
+        "file_hash": "b8a765bf25e280a8e41e47cf75f106045fd8be9e5e7f1c2be77b1cf11d315091",
+        "current_datetime": "2023-05-17T21:11:48.424386"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\OBJECTS.DATA",
+        "stored_hash": "707bebe5f3f7f880efbc4a34fce0d8d656e9f25bc133621eddda39b529e78baf",
+        "file_hash": "5467d78eb3f896ca0127121fef934e5c04014393a1993268cbb3a2652875ba63",
+        "current_datetime": "2023-05-17T21:11:48.487814"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\@AdvancedKeySettingsNotification.png",
+        "stored_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d",
+        "file_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d8",
+        "current_datetime": "2023-05-17T21:12:54.715378"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagerr.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:13:09.754479"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagwrn.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:13:09.754479"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\setupact.log",
+        "stored_hash": "6f7f64f749ddbb136db0a0e1e482ce4b56fc740d774f0d0ef506e21de4bde0bd",
+        "file_hash": "2f13b8b97adf15a181d68cb3d7ce90d12b25e87f3065e988f413326270e6262c",
+        "current_datetime": "2023-05-17T21:13:09.761015"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\INDEX.BTR",
+        "stored_hash": "264dc376be4ae8a90251a88202c759cff1b3e13d5fba7abbdc5c4fb777405a29",
+        "file_hash": "34a920503468aeb0339a659546b90ba5bc9b56aa16f53df137defda95cac9665",
+        "current_datetime": "2023-05-17T21:13:11.406818"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING1.MAP",
+        "stored_hash": "ce883b77c35ed3a0b3ef96f7f99323873256a3aa26d7f4fa4d4060dbc4e875f8",
+        "file_hash": "61ac2b8644111089cca325ab7bda35c37b1af96db14fde2cb9df7ca138a80ee0",
+        "current_datetime": "2023-05-17T21:13:11.406818"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING3.MAP",
+        "stored_hash": "fa6d8fb4eed14de948b4792f03690d8b80601b2adcf83d5f81ae32ecbe09c47e",
+        "file_hash": "b8a765bf25e280a8e41e47cf75f106045fd8be9e5e7f1c2be77b1cf11d315091",
+        "current_datetime": "2023-05-17T21:13:11.406818"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\OBJECTS.DATA",
+        "stored_hash": "707bebe5f3f7f880efbc4a34fce0d8d656e9f25bc133621eddda39b529e78baf",
+        "file_hash": "5467d78eb3f896ca0127121fef934e5c04014393a1993268cbb3a2652875ba63",
+        "current_datetime": "2023-05-17T21:13:11.469728"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\@AdvancedKeySettingsNotification.png",
+        "stored_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d",
+        "file_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d8",
+        "current_datetime": "2023-05-17T21:17:08.239239"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagerr.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:17:23.370868"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagwrn.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:17:23.372509"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\setupact.log",
+        "stored_hash": "6f7f64f749ddbb136db0a0e1e482ce4b56fc740d774f0d0ef506e21de4bde0bd",
+        "file_hash": "2f13b8b97adf15a181d68cb3d7ce90d12b25e87f3065e988f413326270e6262c",
+        "current_datetime": "2023-05-17T21:17:23.372509"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\INDEX.BTR",
+        "stored_hash": "264dc376be4ae8a90251a88202c759cff1b3e13d5fba7abbdc5c4fb777405a29",
+        "file_hash": "34a920503468aeb0339a659546b90ba5bc9b56aa16f53df137defda95cac9665",
+        "current_datetime": "2023-05-17T21:17:24.999112"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING1.MAP",
+        "stored_hash": "ce883b77c35ed3a0b3ef96f7f99323873256a3aa26d7f4fa4d4060dbc4e875f8",
+        "file_hash": "61ac2b8644111089cca325ab7bda35c37b1af96db14fde2cb9df7ca138a80ee0",
+        "current_datetime": "2023-05-17T21:17:24.999112"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING3.MAP",
+        "stored_hash": "fa6d8fb4eed14de948b4792f03690d8b80601b2adcf83d5f81ae32ecbe09c47e",
+        "file_hash": "b8a765bf25e280a8e41e47cf75f106045fd8be9e5e7f1c2be77b1cf11d315091",
+        "current_datetime": "2023-05-17T21:17:24.999112"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\OBJECTS.DATA",
+        "stored_hash": "707bebe5f3f7f880efbc4a34fce0d8d656e9f25bc133621eddda39b529e78baf",
+        "file_hash": "5467d78eb3f896ca0127121fef934e5c04014393a1993268cbb3a2652875ba63",
+        "current_datetime": "2023-05-17T21:17:25.046004"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\@AdvancedKeySettingsNotification.png",
+        "stored_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d",
+        "file_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d8",
+        "current_datetime": "2023-05-17T21:19:52.360001"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagerr.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:20:07.374442"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagwrn.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:20:07.374442"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\setupact.log",
+        "stored_hash": "6f7f64f749ddbb136db0a0e1e482ce4b56fc740d774f0d0ef506e21de4bde0bd",
+        "file_hash": "2f13b8b97adf15a181d68cb3d7ce90d12b25e87f3065e988f413326270e6262c",
+        "current_datetime": "2023-05-17T21:20:07.374442"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\INDEX.BTR",
+        "stored_hash": "264dc376be4ae8a90251a88202c759cff1b3e13d5fba7abbdc5c4fb777405a29",
+        "file_hash": "34a920503468aeb0339a659546b90ba5bc9b56aa16f53df137defda95cac9665",
+        "current_datetime": "2023-05-17T21:20:08.995160"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING1.MAP",
+        "stored_hash": "ce883b77c35ed3a0b3ef96f7f99323873256a3aa26d7f4fa4d4060dbc4e875f8",
+        "file_hash": "61ac2b8644111089cca325ab7bda35c37b1af96db14fde2cb9df7ca138a80ee0",
+        "current_datetime": "2023-05-17T21:20:09.010510"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING3.MAP",
+        "stored_hash": "fa6d8fb4eed14de948b4792f03690d8b80601b2adcf83d5f81ae32ecbe09c47e",
+        "file_hash": "b8a765bf25e280a8e41e47cf75f106045fd8be9e5e7f1c2be77b1cf11d315091",
+        "current_datetime": "2023-05-17T21:20:09.010510"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\OBJECTS.DATA",
+        "stored_hash": "707bebe5f3f7f880efbc4a34fce0d8d656e9f25bc133621eddda39b529e78baf",
+        "file_hash": "5467d78eb3f896ca0127121fef934e5c04014393a1993268cbb3a2652875ba63",
+        "current_datetime": "2023-05-17T21:20:09.058429"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\@AdvancedKeySettingsNotification.png",
+        "stored_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d",
+        "file_hash": "aa24a85644ecccad7098327899a3c827a6be2ae1474c7958c1500dcd55ee66d8",
+        "current_datetime": "2023-05-17T21:21:28.378780"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagerr.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:21:43.579615"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\diagwrn.xml",
+        "stored_hash": "f0e9e23f751617a42130fe519eeba39c47030150000b9129da7d1b8251d8dcc1",
+        "file_hash": "5b3eb35d06a88b9a3e36b8394e5141fc7e4f58271e3fe1f193cabad336003b74",
+        "current_datetime": "2023-05-17T21:21:43.582066"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\LogFiles\\setupcln\\setupact.log",
+        "stored_hash": "6f7f64f749ddbb136db0a0e1e482ce4b56fc740d774f0d0ef506e21de4bde0bd",
+        "file_hash": "2f13b8b97adf15a181d68cb3d7ce90d12b25e87f3065e988f413326270e6262c",
+        "current_datetime": "2023-05-17T21:21:43.585163"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\INDEX.BTR",
+        "stored_hash": "264dc376be4ae8a90251a88202c759cff1b3e13d5fba7abbdc5c4fb777405a29",
+        "file_hash": "34a920503468aeb0339a659546b90ba5bc9b56aa16f53df137defda95cac9665",
+        "current_datetime": "2023-05-17T21:21:45.208464"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING1.MAP",
+        "stored_hash": "ce883b77c35ed3a0b3ef96f7f99323873256a3aa26d7f4fa4d4060dbc4e875f8",
+        "file_hash": "61ac2b8644111089cca325ab7bda35c37b1af96db14fde2cb9df7ca138a80ee0",
+        "current_datetime": "2023-05-17T21:21:45.208464"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\MAPPING3.MAP",
+        "stored_hash": "fa6d8fb4eed14de948b4792f03690d8b80601b2adcf83d5f81ae32ecbe09c47e",
+        "file_hash": "b8a765bf25e280a8e41e47cf75f106045fd8be9e5e7f1c2be77b1cf11d315091",
+        "current_datetime": "2023-05-17T21:21:45.208464"
+    },
+    {
+        "file_path": "C:\\Windows\\System32\\wbem\\Repository\\OBJECTS.DATA",
+        "stored_hash": "707bebe5f3f7f880efbc4a34fce0d8d656e9f25bc133621eddda39b529e78baf",
+        "file_hash": "5467d78eb3f896ca0127121fef934e5c04014393a1993268cbb3a2652875ba63",
+        "current_datetime": "2023-05-17T21:21:45.267948"
+    }
+]

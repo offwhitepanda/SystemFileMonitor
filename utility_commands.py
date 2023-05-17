@@ -1,7 +1,9 @@
 import time
 import sys
 
+
 def print_colorful(text, color, *args, **kwargs):
+
     color_code = {
         "black": "\033[30m",
         "red": "\033[31m",
@@ -40,4 +42,3 @@ def files_checked_progress(number):
     if number == 1:
         sys.stdout.flush()
     sys.stdout.write(f"\rFiles Checked: {number}")
-
