@@ -6,7 +6,7 @@ from utility_commands import print_colorful
 def create_database():
 
     print_colorful("Creating database", "green")
-    conn = sqlite3.connect('file_hashes.db')
+    conn = sqlite3.connect('../../AppData/Roaming/JetBrains/PyCharmCE2023.1/scratches/file_hashes.db')
     cursor = conn.cursor()
 
     cursor.execute('''CREATE TABLE IF NOT EXISTS file_hashes
@@ -24,7 +24,7 @@ def insert_file_hashes():
     print_colorful("Retrieving File Hashes", "green")
     file_hashes = get_file_hashes()
 
-    conn = sqlite3.connect('file_hashes.db')
+    conn = sqlite3.connect('../../AppData/Roaming/JetBrains/PyCharmCE2023.1/scratches/file_hashes.db')
     cursor = conn.cursor()
 
     print_colorful("Inserting File Hashes", "green")

@@ -44,7 +44,7 @@ if __name__ == "__main__":
     # Get the max size from the arguments.
     max_size_1 = args.max_size
 
-    file_path_1 = "file_info.json"
+    file_path_1 = "../../AppData/Roaming/JetBrains/PyCharmCE2023.1/scratches/file_info.json"
 
     num_objects_removed_1 = remove_old_objects(file_path_1, max_size_1)
 
