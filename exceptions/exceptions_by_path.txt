@@ -1,0 +1,4 @@
+perf*.dat
+C:\Windows\System32\LogFiles\WMI\NetCore.etl
+C:\Windows\System32\LogFiles\WMI\Wifi.etl
+C:\Windows\System32\sru\SRU.chk
