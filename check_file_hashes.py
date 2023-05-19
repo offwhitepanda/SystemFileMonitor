@@ -28,7 +28,7 @@ def check_file_hashes():
     EXCEPTIONS_BY_EXTENSION = exceptions.get("exceptions_by_extension", [])
 
     system32_dir = 'C:\\Windows\\System32'
-    conn = sqlite3.connect('../../AppData/Roaming/JetBrains/PyCharmCE2023.1/scratches/file_hashes.db')
+    conn = sqlite3.connect('file_hashes.db')
     cursor = conn.cursor()
 
     for root, _, files in os.walk(system32_dir):
