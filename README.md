@@ -40,7 +40,7 @@ python.exe main.py
 ```
 ###### check_file_hashes simply re-checks file hashes (db must be created already)
 ```
-python -m check_file_hashes.py
+python check_file_hashes.py
 ```
 
 
