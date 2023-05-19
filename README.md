@@ -6,9 +6,7 @@ As this main.py file stands currently it runs as a demo where it collects the fi
 
 python.exe -m pip install --upgrade pip
 
-pip install plyer  
-pip install sqlite3  
-pip install hashlib  
+pip install plyer
 
 ### Open with your favorite Python IDE (I use PyCharm)
 
