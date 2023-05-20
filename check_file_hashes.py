@@ -1,6 +1,7 @@
 import os
 import sqlite3
 import datetime
+import platform
 from compute_file_hashes import compute_file_hash
 from import_exceptions import import_exceptions
 from to_json import to_json
@@ -10,7 +11,6 @@ from send_message import send_toast_if_changes_detected
 
 
 def check_file_hashes():
-
     print_colorful("Checking file hashes", "green")
     bool_hash_change = False
     files_excepted_by_path_count = 0
@@ -27,7 +27,12 @@ def check_file_hashes():
     EXCEPTIONS_BY_PATH = exceptions.get("exceptions_by_path", [])
     EXCEPTIONS_BY_EXTENSION = exceptions.get("exceptions_by_extension", [])
 
-    system32_dir = 'C:\\Windows\\System32'
+    if "Ubuntu" in platform.version():
+        print("System is Ubuntu")
+        system32_dir = '/usr/bin'
+    else:
+        system32_dir = 'C:\\Windows\\System32'
+
     conn = sqlite3.connect('file_hashes.db')
     cursor = conn.cursor()
 
@@ -93,5 +98,4 @@ def check_file_hashes():
 
 
 if __name__ == "__main__":
-
     check_file_hashes()

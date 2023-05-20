@@ -1,4 +1,5 @@
 import os
+import platform
 from import_exceptions import import_exceptions
 from compute_file_hashes import compute_file_hash
 from utility_commands import files_checked_progress
@@ -11,7 +12,11 @@ def get_file_hashes():
     files_with_permission_denied = 0
     files_checked = 0
 
-    system32_dir = 'C:\\Windows\\System32'
+    if "Ubuntu" in platform.version():
+        print("System is Ubuntu")
+        system32_dir = '/usr/bin'
+    else:
+        system32_dir = 'C:\\Windows\\System32'
     file_hashes = {}
 
     # Import the dynamic variable exceptions arrays from the import_exceptions module
