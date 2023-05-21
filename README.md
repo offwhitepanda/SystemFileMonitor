@@ -15,6 +15,9 @@ SystemFileChecker
 - check_file_hashes.py
 - etc
 ```
+
+## Windows Instructions
+
 ### Prepare environment
 
 open PowerShell or Windows Terminal as an Administrator and run prepare_environment.ps1<br>
@@ -41,6 +44,28 @@ python.exe main.py
 ###### check_file_hashes simply re-checks file hashes (db must be created already)
 ```
 python check_file_hashes.py
+```
+
+## Ubuntu Instructions
+
+### Prepare environment
+
+open terminal at the project folder location and:
+
+```
+sudo su
+pip install plyer
+```
+
+#### usage examples:
+
+###### main.py intitializes and creates the db and does a test check after 30 seconds
+```
+python3 main.py
+```
+###### check_file_hashes simply re-checks file hashes (db must be created already)
+```
+python3 check_file_hashes.py
 ```
 
 
