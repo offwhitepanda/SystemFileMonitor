@@ -1,3 +1,7 @@
+<#
+Disclaimer: The following script is provided for informational purposes only. It does not constitute legal, financial, or professional advice. While we strive to ensure the accuracy and reliability of the information presented, we make no warranties or guarantees, express or implied, regarding the content's completeness, suitability, or applicability. Users are advised to consult with qualified professionals and exercise their own judgment when applying the script's suggestions or recommendations. The use of this script is at the user's own risk, and we shall not be held responsible for any consequences arising from its use. By using this script, you agree to these terms and conditions.
+#>
+
 $chocolatey = invoke-webrequest "https://chocolatey.org/install.ps1"
 invoke-expression $($chocolatey.content)
 choco install -y python3
