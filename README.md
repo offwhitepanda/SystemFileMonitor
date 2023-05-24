@@ -2,6 +2,9 @@
 
 As this main.py file stands currently it runs as a demo where it collects the file hashes and then 30 seconds later it checks them again.
 
+<img src="https://github.com/offwhitepanda/SystemFileMonitor/assets/117415145/886acaad-48d8-43cd-a58f-9bebe2e0824c">
+
+
 ### Download code
 
 download the zip folder<br>
